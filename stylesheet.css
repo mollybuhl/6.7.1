@@ -1,0 +1,25 @@
+body{
+    width:600px;
+    margin:0 auto;
+}
+
+#header{
+    background-color:beige;
+    padding: 10px;
+    border-radius:3%;
+
+    text-align:center;
+    color:rgb(117, 117, 68);
+    font-family:
+}
+
+#image{
+    height:300px;
+    width:300px;
+    margin:0 auto;
+
+    border-radius: 50%;
+    background-image: url("Christopher-Nolan.jpg");
+    background-size:cover;
+    background-position: center;
+}
