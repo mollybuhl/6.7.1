@@ -13,6 +13,18 @@ body{
     font-family:
 }
 
+#menu{
+    border-bottom:1px solid black;
+}
+
+li{
+    display:inline-block;
+}
+
+#middle{
+    text-align: center;
+}
+
 #image{
     height:300px;
     width:300px;
@@ -22,4 +34,8 @@ body{
     background-image: url("Christopher-Nolan.jpg");
     background-size:cover;
     background-position: center;
+}
+
+#section_1, #section_2{
+    
 }
