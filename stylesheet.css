@@ -60,4 +60,8 @@ a{
 
 footer{
     text-align: center;
+    padding:10px;
+    border-top: 1px solid grey;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:10px;
 }
