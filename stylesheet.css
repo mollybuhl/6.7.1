@@ -14,7 +14,7 @@ body{
 }
 
 #menu{
-    border-bottom:1px solid black;
+    border-bottom:1px solid rgb(186, 186, 186);
 }
 
 ul{
@@ -23,6 +23,8 @@ ul{
 li{
     display:inline-block;
     padding:5px;
+    color: rgb(55, 55, 55);
+    text-decoration: underline dotted;
 }
 
 a{
@@ -38,6 +40,7 @@ a{
     height:300px;
     width:300px;
     margin:0 auto;
+    border:1px solid black;
 
     border-radius: 50%;
     background-image: url("Christopher-Nolan.jpg");
