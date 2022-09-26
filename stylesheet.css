@@ -48,6 +48,16 @@ a{
     background-position: center;
 }
 
-#section_1, #section_2{
-    
+.section{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sub_head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
 }
